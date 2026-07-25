@@ -1,14 +1,15 @@
 # Tracer-App
-# TRACER — Talent Retention Intelligence Module
+# TRACER — HR Analytics App
 
-TRACER is a predictive HR analytics app that helps identify employee attrition risk using Machine Learning and Streamlit.
+A machine learning web dashboard that predicts employee attrition risk and identifies top exit drivers.
 
-## Features
-* Predictive Model using Random Forest
-* Interactive Dark-Mode Streamlit Dashboard
-* Top-3 Exit Driver Identification
-* Feature Importance Analytics
-  
-#  TRACER — Talent Retention Intelligence Module
+ **[Launch Live App](https://tracer-app-e6wb2dptw6atdksz2vrzhd.streamlit.app)**
 
-🔗 **[Click Here to Open the Live Web App](https://tracer-hr-analytics.streamlit.app)**
+---
+
+###  Built With
+* Python
+* Streamlit
+* Scikit-Learn
+* Pandas & NumPy
+* Matplotlib & Seaborn
