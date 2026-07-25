@@ -1,13 +1,19 @@
 # Tracer-App
-# TRACER — HR Analytics App
+# TRACER — Talent Retention Intelligence Module
 
-A machine learning web dashboard that predicts employee attrition risk and identifies top exit drivers.
+TRACER is a predictive HR analytics engine developed for **Dyashin Technosoft** as an integration for their **DSPristine** HRMS platform. It utilizes Machine Learning to calculate employee attrition risk and highlight top resignation drivers.
 
- **[Launch Live App](https://tracer-app-e6wb2dptw6atdksz2vrzhd.streamlit.app)**
+**[Launch Live Web App](https://tracer-app-e6wb2dptw6atdksz2vrzhd.streamlit.app)**
 
 ---
 
-###  Built With
+### Overview
+* **Model:** Random Forest Classifier
+* **Primary Function:** Attrition risk scoring & exit driver identification
+
+---
+
+### Built With
 * Python
 * Streamlit
 * Scikit-Learn
